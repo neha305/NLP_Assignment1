@@ -1,0 +1,85 @@
+{
+  "report_id": "93ec28da-796f-4cb8-aa5c-b253667808b6",
+  "pages": [
+    {
+      "metadata": {
+        "name": "MR. PRABHAKARAN NAIR Collection 1 17-Sep-2025 / 11:31 AM",
+        "age": "72Y /Male Received 17-Sep-2025 / 12:13 PM",
+        "gender": "NA",
+        "patient_id": "NA",
+        "lab_id": "NA",
+        "mobile": "NA"
+      },
+      "tests": [
+        {
+          "test_name": "Lab. Id : P1238545",
+          "value": "Hosp. UHID :",
+          "unit": "Reg. Date",
+          "reference": ": 17-Sep-2025 / 11:30 AM"
+        },
+        {
+          "test_name": "Name : MR. PRABHAKARAN",
+          "value": "NAIR .",
+          "unit": "Collection",
+          "reference": "1 17-Sep-2025 / 11:31 AM"
+        },
+        {
+          "test_name": "Collected At : Emami Frank",
+          "value": "Ross Limited",
+          "unit": "Report",
+          "reference": "17-Sep-2025 / 13:35 PM"
+        },
+        {
+          "test_name": "SODIUM",
+          "value": "121 mmol/L",
+          "unit": "136-145",
+          "reference": "Serum"
+        },
+        {
+          "test_name": "POTASSIUM",
+          "value": "4.4 mmol/L",
+          "unit": "3.5-5.1",
+          "reference": "Serum"
+        },
+        {
+          "test_name": "CHLORIDE",
+          "value": "84 mmol/L",
+          "unit": "98-107",
+          "reference": "Serum"
+        },
+        {
+          "test_name": "Verified Date : 17-Sep-2025",
+          "value": "/13:35",
+          "unit": "",
+          "reference": "Dr. Ashwin Kumar A S"
+        },
+        {
+          "test_name": "Lab *Certain investigation tests may is require only a further tool to testing, faciilitate",
+          "value": "at in an concluding additional a cost diagnosis for derivation , and should of excact be",
+          "unit": "clinically value. kindly correlated submit by request the referring with in physician. 2 days,",
+          "reference": "post reporting."
+        },
+        {
+          "test_name": "+Contact customer care 9680396803",
+          "value": "for all queries related to test results",
+          "unit": "",
+          "reference": ""
+        },
+        {
+          "test_name": "[ ClinicaliLab-BengaluruiReference [Aster",
+          "value": "Lab,24 Venkatappa",
+          "unit": "Road, Tasker Town, Vasanthnagar,",
+          "reference": "Bangalore!"
+        }
+      ],
+      "confidence": {
+        "name": 0.5,
+        "age": 0.5,
+        "gender": 0,
+        "patient_id": 0,
+        "lab_id": 0,
+        "mobile": 0
+      }
+    }
+  ]
+}
