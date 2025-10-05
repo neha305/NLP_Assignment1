@@ -1,4 +1,4 @@
-Medical Report ORC Extraction for NLP Home Assignment
+Medical Report OCR Extraction for NLP Home Assignment
 
 Steps to run the project:
 
